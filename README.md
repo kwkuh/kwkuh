@@ -19,7 +19,7 @@
 ## 🦞 KULA — holding company
 
 > _every brand under [kula.co.id](https://kula.co.id) · origin: TerbaIQ (2019) · suite-wide v2 rebuild in progress 🚧_  
-> _semua lagi dapur · maintenance mode · live again soon · ship beats perfect 🦞_
+> _all in the workshop · maintenance mode · live again soon · ship beats perfect 🦞_
 
 | # | brand | domain | tag | status |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@
 | 06 | 🤖 **Jarvis** | [jarvis.md](https://jarvis.md) | ai framework | 🟢 live |
 | 07 | 💰 **Gajih** | [gajih.com](https://gajih.com) | fintech & HR | 🟢 live |
 | 08 | 🇮🇩 **.id** | [🇮🇩.id](https://xn--h77hja.id) | digital identity | 🟢 live |
-| 09 | 💬 **Baleswa** | [baleswa.com](https://baleswa.com) | ekonomi digital | 🟢 live |
+| 09 | 💬 **Baleswa** | [baleswa.com](https://baleswa.com) | digital economy | 🟢 live |
 | 10 | 🤖 **OpenBot** | [openbot.id](https://openbot.id) | bot platform | 🟢 live |
 | 11 | 👨‍👦 **BotFather** | [botfather.id](https://botfather.id) | bot marketplace | 🟢 live |
 | 12 | 🕌 **Arabia** | [arabia.id](https://arabia.id) | content & culture | 🚧 v2 |
