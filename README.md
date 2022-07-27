@@ -95,6 +95,12 @@
       <sub>10-point checklist for evaluating registration-worthy domains</sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/kwkuh/domain-marketplace"><b>🛒 domain-marketplace</b></a> · <a href="https://kwkuh.github.io/domain-marketplace/">live ↗</a><br/>
+      <sub>Indonesian-style multi-domain marketplace template — WhatsApp-native, USD+IDR pricing</sub>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
