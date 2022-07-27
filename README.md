@@ -85,6 +85,16 @@
       <sub>Indonesian TLD reference (.id / .co.id / .web.id)</sub>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/kwkuh/domain-history"><b>📜 domain-history</b></a><br/>
+      <sub>Wayback Machine snapshot lookup — what did this domain used to be?</sub>
+    </td>
+    <td>
+      <a href="https://github.com/kwkuh/domain-buddy"><b>🤖 domain-buddy</b></a><br/>
+      <sub>10-point checklist for evaluating registration-worthy domains</sub>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
